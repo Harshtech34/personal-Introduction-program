@@ -53,3 +53,10 @@ How to use print() to display formatted output
 How to create a basic Python program
 
 How to structure and submit a project using GitHub
+ # Personal Introduction Program
+
+A beginner Python script that demonstrates input/output and basic string formatting.
+
+## Run
+`python intro.py`
+
